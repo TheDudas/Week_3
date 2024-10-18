@@ -1,0 +1,7 @@
+{
+    "iridium.npm.analyze.columns": [
+        "gzip",
+        "slow3G",
+        ""
+    ]
+}
