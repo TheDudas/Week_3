@@ -1,0 +1,26 @@
+
+
+/* th {
+    text-align: center;
+} */
+
+thead {
+    text-align: center;
+    text-emphasis-style: bold;
+    text-shadow: 10%;
+    text-decoration-color: red;
+}
+
+div.container {
+    border-style: solid;
+    border-color: blue;
+    border-width: 2px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: aqua;
+    text-shadow: 10px;
+}
